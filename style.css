@@ -45,20 +45,8 @@
     position: relative;
 }
 
-/* .profile__status--active {
-    display: block;
-    background: limegreen;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    position: absolute;
-    top: 3%;
-    right: 8%;
-} */
-
 .profile__status {
     display: block;
-    /* background: limegreen; */
     width: 25px;
     height: 25px;
     border-radius: 50%;
@@ -70,5 +58,4 @@
 
 .profile__status--active {
     background: limegreen;
-    /* box-shadow: 5px 10px #888888; */
 }
